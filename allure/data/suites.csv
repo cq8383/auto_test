@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jul 25 11:17:16 CST 2025","Fri Jul 25 11:17:21 CST 2025","4796","testcase","test_booking","TestBooking","","","出发/目的城市选择功能",""
